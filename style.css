@@ -44,6 +44,7 @@ header button{
     border: none;
     background: none;
     width: fit-content;
+    cursor: pointer;
 }
 
 header nav.mobile {
@@ -200,7 +201,7 @@ main {
     }
 
     header .desktop {
-        
+
         display: flex;
         gap: 2.5rem;
     }
